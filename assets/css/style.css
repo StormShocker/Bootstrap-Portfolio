@@ -1,0 +1,8 @@
+body {
+    background-image: url(/assets/images/memphis-mini.png);
+}
+
+.border-color {
+    border-color: #4aaaa5 !important;
+    border-width: 6px !important;
+}
